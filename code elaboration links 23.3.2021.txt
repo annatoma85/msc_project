@@ -1,0 +1,5 @@
+1.https://www.google.com/search?q=what+is+computer+vision+problems+in+opencv%3F&client=firefox-b-d&sxsrf=ALeKk03AVADil2-uaGZqOUL9KTNpQWqx8g%3A1616476344673&ei=uHhZYIeyKMzB3LUP4uud4A4&oq=what+is+computer+vision+problems+in+opencv%3F&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgjECc6BAghEApQwlVY_GZg9mloAXACeACAAZkCiAHMD5IBBTAuNy40mAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwiH7r7S08XvAhXMILcAHeJ1B-wQ4dUDCAw&uact=5
+
+2. https://docs.opencv.org/master/d0/de3/tutorial_py_intro.html
+
+3. 
